@@ -22,6 +22,5 @@ gulp
 gulp docs
 ```
 
-[Смотреть демо](https://user.github.io/repo/)
-
+[Смотреть демо](https://user.github.io/repo/)  
 [Описание сборки](https://www.youtube.com/watch?v=d2ngzLOM01U)
